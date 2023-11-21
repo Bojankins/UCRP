@@ -1,5 +1,5 @@
 /* Copyright (C) Matthew-Jon Olson - All Rights Reserved
  * Unauthorized copying of this file, via any medium is strictly prohibited
  * Proprietary and confidential
- * Written by Matthew Olson <matthew.olson808@gmail.com>, November 2023
+ * Written by Matthew-Jon Olson <matthew.olson808@gmail.com>, November 2023
  */
