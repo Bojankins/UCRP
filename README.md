@@ -1,4 +1,4 @@
-# UCRP: User-Controllable Recovery Protocol
+# UCRP: User-Controlled Recovery Protocol
 
 UCRP is a novel cryptographic protocol that enables users to recover their lost or compromised data without fully revealing their decryption keys to any single trusted party. This protocol leverages homomorphic encryption and secure multi-party computation (MPC) to ensure the privacy and security of sensitive user data.
 
